@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1010390891522-pdbg66jvej5q4ol5l9n0uk0dmrvqu5a9.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1010390891522</string>
+    <string name="google_api_key" translatable="false">AIzaSyAOG_D7PTnoaYPG7i6BLGsy7FZATwk9OOE</string>
+    <string name="google_app_id" translatable="false">1:1010390891522:android:255991d233d94b587cbb1b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAOG_D7PTnoaYPG7i6BLGsy7FZATwk9OOE</string>
+    <string name="google_storage_bucket" translatable="false">foodkamp-3c802.appspot.com</string>
+    <string name="project_id" translatable="false">foodkamp-3c802</string>
+</resources>

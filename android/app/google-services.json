@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1010390891522",
+    "project_id": "foodkamp-3c802",
+    "storage_bucket": "foodkamp-3c802.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010390891522:android:255991d233d94b587cbb1b",
+        "android_client_info": {
+          "package_name": "food_kamp.food_kamp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010390891522-pdbg66jvej5q4ol5l9n0uk0dmrvqu5a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOG_D7PTnoaYPG7i6BLGsy7FZATwk9OOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010390891522-pdbg66jvej5q4ol5l9n0uk0dmrvqu5a9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
